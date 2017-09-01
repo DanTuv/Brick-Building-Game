@@ -1,0 +1,4 @@
+compatible_type
+magnet_female
+facing_vectors
+2

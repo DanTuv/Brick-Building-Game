@@ -1,0 +1,41 @@
+name
+3x2-normal
+stud_male
+8 4.8 4
+8 6.6 4
+stud_male
+8 4.8 -4
+8 6.6 -4
+stud_male
+0 4.8 4
+0 6.6 4
+stud_male
+0 4.8 -4
+0 6.6 -4
+stud_male
+-8 4.8 4
+-8 6.6 4
+stud_male
+-8 4.8 -4
+-8 6.6 -4
+stud_female
+8 -4.8 -4
+8 -6.6 -4
+stud_female
+8 -4.8 4
+8 -6.6 4
+dismiss
+12 -4.8 8
+12 4.8 8
+stud_female
+0 -4.8 -4
+0 -6.6 -4
+stud_female
+0 -4.8 4
+0 -6.6 4
+stud_female
+-8 -4.8 -4
+-8 -6.6 -4
+stud_female
+-8 -4.8 4
+-8 -6.6 4

@@ -1,0 +1,9 @@
+name
+magnet
+magnet_male
+0 -3.16 0
+0 -4.76 0
+facing
+0 0 -1.6
+facing
+0 0 1.6

@@ -1,0 +1,4 @@
+compatible_type
+stud_female
+compatible_type
+stud_rotateable_female

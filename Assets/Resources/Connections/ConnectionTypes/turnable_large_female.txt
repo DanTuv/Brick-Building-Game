@@ -1,0 +1,8 @@
+compatible_type
+turnable_large_male
+can_be_rotated
+true
+rotation_max
+360
+rotation_min
+-360

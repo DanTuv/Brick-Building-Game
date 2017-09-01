@@ -1,0 +1,26 @@
+name
+4x1-flat
+stud_male
+-12 1.6 0
+-12 3.4 0
+stud_female
+-12 -1.6 0
+-12 -3.4 0
+stud_male
+-4 1.6 0
+-4 3.4 0
+stud_female
+-4 -1.6 0
+-4 -3.4 0
+stud_male
+4 1.6 0
+4 3.4 0
+stud_female
+4 -1.6 0
+4 -3.4 0
+stud_male
+12 1.6 0
+12 3.4 0
+stud_female
+12 -1.6 0
+12 -3.4 0

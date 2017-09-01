@@ -1,0 +1,11 @@
+name
+claw-horizontal
+stud_male
+0 1.6 0
+0 3.4 0
+stud_female
+0 -1.6 0
+0 -3.4 0
+stick_female
+0 1 -8
+3.2 1 -8

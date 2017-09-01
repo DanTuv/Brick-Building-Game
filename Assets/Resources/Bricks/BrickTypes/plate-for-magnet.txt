@@ -1,0 +1,25 @@
+name
+plate-for-magnet
+stud_female
+-4 -1.6 4
+-4 -3.4 4
+visible_connector
+stud_female
+4 -1.6 4
+4 -3.4 4
+visible_connector
+stud_female
+-4 -1.6 -4
+-4 -3.4 -4
+visible_connector
+stud_female
+4 -1.6 -4
+4 -3.4 -4
+visible_connector
+magnet_female
+0 0 0
+0 1.6 0
+facing
+0 0 -1.6
+facing
+0 0 1.6

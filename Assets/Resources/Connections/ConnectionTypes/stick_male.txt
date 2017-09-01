@@ -1,0 +1,10 @@
+compatible_type
+stick_female
+multiple_connections
+true
+can_be_rotated
+true
+rotation_max
+360
+rotation_min
+-360

@@ -1,0 +1,12 @@
+name
+stick-aerial
+special_stud_male
+0 3.6 0
+0 5.4 0
+stud_rotateable_female
+0 0 0
+0 -1.8 0
+stick_male
+0 5.4 0
+0 37.96 0
+

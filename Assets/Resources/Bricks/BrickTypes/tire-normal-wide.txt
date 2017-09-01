@@ -1,0 +1,8 @@
+name
+tire-normal-wide
+tire_female
+0 0 0
+0 0 3
+tire_female
+0 0 0
+0 0 -3

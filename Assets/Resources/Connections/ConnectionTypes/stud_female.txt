@@ -1,0 +1,8 @@
+compatible_type
+stud_male
+compatible_type
+stud_hole_male
+compatible_type
+special_stud_male
+compatible_type
+stud_hole_male_deep

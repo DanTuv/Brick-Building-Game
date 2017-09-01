@@ -1,0 +1,38 @@
+name
+3x2-flat
+stud_male
+-8 1.6 -4
+-8 3.4 -4
+stud_female
+-8 -1.6 -4
+-8 -3.4 -4
+stud_male
+-8 1.6 4
+-8 3.4 4
+stud_female
+-8 -1.6 4
+-8 -3.4 4
+stud_male
+0 1.6 -4
+0 3.4 -4
+stud_female
+0 -1.6 -4
+0 -3.4 -4
+stud_male
+0 1.6 4
+0 3.4 4
+stud_female
+0 -1.6 4
+0 -3.4 4
+stud_male
+8 1.6 -4
+8 3.4 -4
+stud_female
+8 -1.6 -4
+8 -3.4 -4
+stud_male
+8 1.6 4
+8 3.4 4
+stud_female
+8 -1.6 4
+8 -3.4 4

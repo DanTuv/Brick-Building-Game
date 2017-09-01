@@ -1,0 +1,42 @@
+Mono path[0] = 'C:/Users/Thomas/Documents/Unity Projects/BrickTest/Bricky_Data/Managed'
+Mono config path = 'C:/Users/Thomas/Documents/Unity Projects/BrickTest/Bricky_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Thomas/Documents/Unity Projects/BrickTest/Bricky_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55495
+Multi-casting "[IP] 192.168.1.6 [Port] 55495 [Flags] 3 [Guid] 3833642642 [EditorId] 1097547685 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-E678111) [Debug] 0" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55495]...
+PlayerConnection accepted from [192.168.1.6] handle:0x344
+Started listening to [0.0.0.0:55495]
+PlayerConnection already initialized - listening to [0.0.0.0:55495]
+Player data archive not found at `C:/Users/Thomas/Documents/Unity Projects/BrickTest/Bricky_Data/data.unity3d`, using local filesystem
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 5700 Series (ID=0x68b8)
+    Vendor:   ATI
+    VRAM:     1010 MB
+    Driver:   15.200.1046.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Thomas\Documents\Unity Projects\BrickTest\Bricky_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Thomas\Documents\Unity Projects\BrickTest\Bricky_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Documents\Unity Projects\BrickTest\Bricky_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Thomas\Documents\Unity Projects\BrickTest\Bricky_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Documents\Unity Projects\BrickTest\Bricky_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Thomas\Documents\Unity Projects\BrickTest\Bricky_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Documents\Unity Projects\BrickTest\Bricky_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Thomas\Documents\Unity Projects\BrickTest\Bricky_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Documents\Unity Projects\BrickTest\Bricky_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Thomas\Documents\Unity Projects\BrickTest\Bricky_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Documents\Unity Projects\BrickTest\Bricky_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Thomas\Documents\Unity Projects\BrickTest\Bricky_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Documents\Unity Projects\BrickTest\Bricky_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Thomas\Documents\Unity Projects\BrickTest\Bricky_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.241 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.952320 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3268 -> priority: 1 
+  Thread -> id: 34c0 -> priority: 1 
+Waiting for finish

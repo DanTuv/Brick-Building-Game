@@ -1,0 +1,50 @@
+name
+8x1-flat
+stud_male
+-28 1.6 0
+-28 3.4 0
+stud_female
+-28 -1.6 0
+-28 -3.4 0
+stud_male
+-20 1.6 0
+-20 3.4 0
+stud_female
+-20 -1.6 0
+-20 -3.4 0
+stud_male
+-12 1.6 0
+-12 3.4 0
+stud_female
+-12 -1.6 0
+-12 -3.4 0
+stud_male
+-4 1.6 0
+-4 3.4 0
+stud_female
+-4 -1.6 0
+-4 -3.4 0
+stud_male
+4 1.6 0
+4 3.4 0
+stud_female
+4 -1.6 0
+4 -3.4 0
+stud_male
+12 1.6 0
+12 3.4 0
+stud_female
+12 -1.6 0
+12 -3.4 0
+stud_male
+20 1.6 0
+20 3.4 0
+stud_female
+20 -1.6 0
+20 -3.4 0
+stud_male
+28 1.6 0
+28 3.4 0
+stud_female
+28 -1.6 0
+28 -3.4 0

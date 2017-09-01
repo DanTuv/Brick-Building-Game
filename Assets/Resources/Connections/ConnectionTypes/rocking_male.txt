@@ -1,0 +1,10 @@
+compatible_type
+rocking_female
+facing_vectors
+2
+can_be_rotated
+true
+rotation_max
+90
+rotation_min
+0

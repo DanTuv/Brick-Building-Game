@@ -1,0 +1,8 @@
+name
+rim-normal-wide
+rim_female
+0 0 6
+0 0 8
+tire_male
+0 0 0
+0 0 -3

@@ -1,0 +1,8 @@
+name
+1x1-flat
+stud_male
+0 1.58 0
+0 3.38 0
+stud_female
+0 -1.58 0
+0 -3.38 0

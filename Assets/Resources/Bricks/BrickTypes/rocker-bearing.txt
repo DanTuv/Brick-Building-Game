@@ -1,0 +1,16 @@
+name
+rocker-bearing
+stud_female
+4 -4.4 0
+4 -6.2 0
+stud_female
+-4 -4.4 0
+-4 -6.2 0
+rocking_male
+8 1.18 0
+-8 1.18 0
+facing
+0 0 -5.4
+facing
+0 0 5.4
+

@@ -1,0 +1,17 @@
+name
+1x2-normal
+dismiss
+4 4.8 0
+4 6.6 0
+stud_male
+4 4.8 0
+4 6.6 0
+stud_male
+-4 4.8 0
+-4 6.6 0
+stud_female
+4 -4.8 0
+4 -6.6 0
+stud_female
+-4 -4.8 0
+-4 -6.6 0

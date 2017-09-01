@@ -1,0 +1,1538 @@
+name
+16x16-flat
+stud_male
+-60 1.6 -60
+-60 3.4 -60
+stud_female
+-60 -1.6 -60
+-60 -3.4 -60
+stud_male
+-60 1.6 -52
+-60 3.4 -52
+stud_female
+-60 -1.6 -52
+-60 -3.4 -52
+stud_male
+-60 1.6 -44
+-60 3.4 -44
+stud_female
+-60 -1.6 -44
+-60 -3.4 -44
+stud_male
+-60 1.6 -36
+-60 3.4 -36
+stud_female
+-60 -1.6 -36
+-60 -3.4 -36
+stud_male
+-60 1.6 -28
+-60 3.4 -28
+stud_female
+-60 -1.6 -28
+-60 -3.4 -28
+stud_male
+-60 1.6 -20
+-60 3.4 -20
+stud_female
+-60 -1.6 -20
+-60 -3.4 -20
+stud_male
+-60 1.6 -12
+-60 3.4 -12
+stud_female
+-60 -1.6 -12
+-60 -3.4 -12
+stud_male
+-60 1.6 -4
+-60 3.4 -4
+stud_female
+-60 -1.6 -4
+-60 -3.4 -4
+stud_male
+-60 1.6 4
+-60 3.4 4
+stud_female
+-60 -1.6 4
+-60 -3.4 4
+stud_male
+-60 1.6 12
+-60 3.4 12
+stud_female
+-60 -1.6 12
+-60 -3.4 12
+stud_male
+-60 1.6 20
+-60 3.4 20
+stud_female
+-60 -1.6 20
+-60 -3.4 20
+stud_male
+-60 1.6 28
+-60 3.4 28
+stud_female
+-60 -1.6 28
+-60 -3.4 28
+stud_male
+-60 1.6 36
+-60 3.4 36
+stud_female
+-60 -1.6 36
+-60 -3.4 36
+stud_male
+-60 1.6 44
+-60 3.4 44
+stud_female
+-60 -1.6 44
+-60 -3.4 44
+stud_male
+-60 1.6 52
+-60 3.4 52
+stud_female
+-60 -1.6 52
+-60 -3.4 52
+stud_male
+-60 1.6 60
+-60 3.4 60
+stud_female
+-60 -1.6 60
+-60 -3.4 60
+stud_male
+-52 1.6 -60
+-52 3.4 -60
+stud_female
+-52 -1.6 -60
+-52 -3.4 -60
+stud_male
+-52 1.6 -52
+-52 3.4 -52
+stud_female
+-52 -1.6 -52
+-52 -3.4 -52
+stud_male
+-52 1.6 -44
+-52 3.4 -44
+stud_female
+-52 -1.6 -44
+-52 -3.4 -44
+stud_male
+-52 1.6 -36
+-52 3.4 -36
+stud_female
+-52 -1.6 -36
+-52 -3.4 -36
+stud_male
+-52 1.6 -28
+-52 3.4 -28
+stud_female
+-52 -1.6 -28
+-52 -3.4 -28
+stud_male
+-52 1.6 -20
+-52 3.4 -20
+stud_female
+-52 -1.6 -20
+-52 -3.4 -20
+stud_male
+-52 1.6 -12
+-52 3.4 -12
+stud_female
+-52 -1.6 -12
+-52 -3.4 -12
+stud_male
+-52 1.6 -4
+-52 3.4 -4
+stud_female
+-52 -1.6 -4
+-52 -3.4 -4
+stud_male
+-52 1.6 4
+-52 3.4 4
+stud_female
+-52 -1.6 4
+-52 -3.4 4
+stud_male
+-52 1.6 12
+-52 3.4 12
+stud_female
+-52 -1.6 12
+-52 -3.4 12
+stud_male
+-52 1.6 20
+-52 3.4 20
+stud_female
+-52 -1.6 20
+-52 -3.4 20
+stud_male
+-52 1.6 28
+-52 3.4 28
+stud_female
+-52 -1.6 28
+-52 -3.4 28
+stud_male
+-52 1.6 36
+-52 3.4 36
+stud_female
+-52 -1.6 36
+-52 -3.4 36
+stud_male
+-52 1.6 44
+-52 3.4 44
+stud_female
+-52 -1.6 44
+-52 -3.4 44
+stud_male
+-52 1.6 52
+-52 3.4 52
+stud_female
+-52 -1.6 52
+-52 -3.4 52
+stud_male
+-52 1.6 60
+-52 3.4 60
+stud_female
+-52 -1.6 60
+-52 -3.4 60
+stud_male
+-44 1.6 -60
+-44 3.4 -60
+stud_female
+-44 -1.6 -60
+-44 -3.4 -60
+stud_male
+-44 1.6 -52
+-44 3.4 -52
+stud_female
+-44 -1.6 -52
+-44 -3.4 -52
+stud_male
+-44 1.6 -44
+-44 3.4 -44
+stud_female
+-44 -1.6 -44
+-44 -3.4 -44
+stud_male
+-44 1.6 -36
+-44 3.4 -36
+stud_female
+-44 -1.6 -36
+-44 -3.4 -36
+stud_male
+-44 1.6 -28
+-44 3.4 -28
+stud_female
+-44 -1.6 -28
+-44 -3.4 -28
+stud_male
+-44 1.6 -20
+-44 3.4 -20
+stud_female
+-44 -1.6 -20
+-44 -3.4 -20
+stud_male
+-44 1.6 -12
+-44 3.4 -12
+stud_female
+-44 -1.6 -12
+-44 -3.4 -12
+stud_male
+-44 1.6 -4
+-44 3.4 -4
+stud_female
+-44 -1.6 -4
+-44 -3.4 -4
+stud_male
+-44 1.6 4
+-44 3.4 4
+stud_female
+-44 -1.6 4
+-44 -3.4 4
+stud_male
+-44 1.6 12
+-44 3.4 12
+stud_female
+-44 -1.6 12
+-44 -3.4 12
+stud_male
+-44 1.6 20
+-44 3.4 20
+stud_female
+-44 -1.6 20
+-44 -3.4 20
+stud_male
+-44 1.6 28
+-44 3.4 28
+stud_female
+-44 -1.6 28
+-44 -3.4 28
+stud_male
+-44 1.6 36
+-44 3.4 36
+stud_female
+-44 -1.6 36
+-44 -3.4 36
+stud_male
+-44 1.6 44
+-44 3.4 44
+stud_female
+-44 -1.6 44
+-44 -3.4 44
+stud_male
+-44 1.6 52
+-44 3.4 52
+stud_female
+-44 -1.6 52
+-44 -3.4 52
+stud_male
+-44 1.6 60
+-44 3.4 60
+stud_female
+-44 -1.6 60
+-44 -3.4 60
+stud_male
+-36 1.6 -60
+-36 3.4 -60
+stud_female
+-36 -1.6 -60
+-36 -3.4 -60
+stud_male
+-36 1.6 -52
+-36 3.4 -52
+stud_female
+-36 -1.6 -52
+-36 -3.4 -52
+stud_male
+-36 1.6 -44
+-36 3.4 -44
+stud_female
+-36 -1.6 -44
+-36 -3.4 -44
+stud_male
+-36 1.6 -36
+-36 3.4 -36
+stud_female
+-36 -1.6 -36
+-36 -3.4 -36
+stud_male
+-36 1.6 -28
+-36 3.4 -28
+stud_female
+-36 -1.6 -28
+-36 -3.4 -28
+stud_male
+-36 1.6 -20
+-36 3.4 -20
+stud_female
+-36 -1.6 -20
+-36 -3.4 -20
+stud_male
+-36 1.6 -12
+-36 3.4 -12
+stud_female
+-36 -1.6 -12
+-36 -3.4 -12
+stud_male
+-36 1.6 -4
+-36 3.4 -4
+stud_female
+-36 -1.6 -4
+-36 -3.4 -4
+stud_male
+-36 1.6 4
+-36 3.4 4
+stud_female
+-36 -1.6 4
+-36 -3.4 4
+stud_male
+-36 1.6 12
+-36 3.4 12
+stud_female
+-36 -1.6 12
+-36 -3.4 12
+stud_male
+-36 1.6 20
+-36 3.4 20
+stud_female
+-36 -1.6 20
+-36 -3.4 20
+stud_male
+-36 1.6 28
+-36 3.4 28
+stud_female
+-36 -1.6 28
+-36 -3.4 28
+stud_male
+-36 1.6 36
+-36 3.4 36
+stud_female
+-36 -1.6 36
+-36 -3.4 36
+stud_male
+-36 1.6 44
+-36 3.4 44
+stud_female
+-36 -1.6 44
+-36 -3.4 44
+stud_male
+-36 1.6 52
+-36 3.4 52
+stud_female
+-36 -1.6 52
+-36 -3.4 52
+stud_male
+-36 1.6 60
+-36 3.4 60
+stud_female
+-36 -1.6 60
+-36 -3.4 60
+stud_male
+-28 1.6 -60
+-28 3.4 -60
+stud_female
+-28 -1.6 -60
+-28 -3.4 -60
+stud_male
+-28 1.6 -52
+-28 3.4 -52
+stud_female
+-28 -1.6 -52
+-28 -3.4 -52
+stud_male
+-28 1.6 -44
+-28 3.4 -44
+stud_female
+-28 -1.6 -44
+-28 -3.4 -44
+stud_male
+-28 1.6 -36
+-28 3.4 -36
+stud_female
+-28 -1.6 -36
+-28 -3.4 -36
+stud_male
+-28 1.6 -28
+-28 3.4 -28
+stud_female
+-28 -1.6 -28
+-28 -3.4 -28
+stud_male
+-28 1.6 -20
+-28 3.4 -20
+stud_female
+-28 -1.6 -20
+-28 -3.4 -20
+stud_male
+-28 1.6 -12
+-28 3.4 -12
+stud_female
+-28 -1.6 -12
+-28 -3.4 -12
+stud_male
+-28 1.6 -4
+-28 3.4 -4
+stud_female
+-28 -1.6 -4
+-28 -3.4 -4
+stud_male
+-28 1.6 4
+-28 3.4 4
+stud_female
+-28 -1.6 4
+-28 -3.4 4
+stud_male
+-28 1.6 12
+-28 3.4 12
+stud_female
+-28 -1.6 12
+-28 -3.4 12
+stud_male
+-28 1.6 20
+-28 3.4 20
+stud_female
+-28 -1.6 20
+-28 -3.4 20
+stud_male
+-28 1.6 28
+-28 3.4 28
+stud_female
+-28 -1.6 28
+-28 -3.4 28
+stud_male
+-28 1.6 36
+-28 3.4 36
+stud_female
+-28 -1.6 36
+-28 -3.4 36
+stud_male
+-28 1.6 44
+-28 3.4 44
+stud_female
+-28 -1.6 44
+-28 -3.4 44
+stud_male
+-28 1.6 52
+-28 3.4 52
+stud_female
+-28 -1.6 52
+-28 -3.4 52
+stud_male
+-28 1.6 60
+-28 3.4 60
+stud_female
+-28 -1.6 60
+-28 -3.4 60
+stud_male
+-20 1.6 -60
+-20 3.4 -60
+stud_female
+-20 -1.6 -60
+-20 -3.4 -60
+stud_male
+-20 1.6 -52
+-20 3.4 -52
+stud_female
+-20 -1.6 -52
+-20 -3.4 -52
+stud_male
+-20 1.6 -44
+-20 3.4 -44
+stud_female
+-20 -1.6 -44
+-20 -3.4 -44
+stud_male
+-20 1.6 -36
+-20 3.4 -36
+stud_female
+-20 -1.6 -36
+-20 -3.4 -36
+stud_male
+-20 1.6 -28
+-20 3.4 -28
+stud_female
+-20 -1.6 -28
+-20 -3.4 -28
+stud_male
+-20 1.6 -20
+-20 3.4 -20
+stud_female
+-20 -1.6 -20
+-20 -3.4 -20
+stud_male
+-20 1.6 -12
+-20 3.4 -12
+stud_female
+-20 -1.6 -12
+-20 -3.4 -12
+stud_male
+-20 1.6 -4
+-20 3.4 -4
+stud_female
+-20 -1.6 -4
+-20 -3.4 -4
+stud_male
+-20 1.6 4
+-20 3.4 4
+stud_female
+-20 -1.6 4
+-20 -3.4 4
+stud_male
+-20 1.6 12
+-20 3.4 12
+stud_female
+-20 -1.6 12
+-20 -3.4 12
+stud_male
+-20 1.6 20
+-20 3.4 20
+stud_female
+-20 -1.6 20
+-20 -3.4 20
+stud_male
+-20 1.6 28
+-20 3.4 28
+stud_female
+-20 -1.6 28
+-20 -3.4 28
+stud_male
+-20 1.6 36
+-20 3.4 36
+stud_female
+-20 -1.6 36
+-20 -3.4 36
+stud_male
+-20 1.6 44
+-20 3.4 44
+stud_female
+-20 -1.6 44
+-20 -3.4 44
+stud_male
+-20 1.6 52
+-20 3.4 52
+stud_female
+-20 -1.6 52
+-20 -3.4 52
+stud_male
+-20 1.6 60
+-20 3.4 60
+stud_female
+-20 -1.6 60
+-20 -3.4 60
+stud_male
+-12 1.6 -60
+-12 3.4 -60
+stud_female
+-12 -1.6 -60
+-12 -3.4 -60
+stud_male
+-12 1.6 -52
+-12 3.4 -52
+stud_female
+-12 -1.6 -52
+-12 -3.4 -52
+stud_male
+-12 1.6 -44
+-12 3.4 -44
+stud_female
+-12 -1.6 -44
+-12 -3.4 -44
+stud_male
+-12 1.6 -36
+-12 3.4 -36
+stud_female
+-12 -1.6 -36
+-12 -3.4 -36
+stud_male
+-12 1.6 -28
+-12 3.4 -28
+stud_female
+-12 -1.6 -28
+-12 -3.4 -28
+stud_male
+-12 1.6 -20
+-12 3.4 -20
+stud_female
+-12 -1.6 -20
+-12 -3.4 -20
+stud_male
+-12 1.6 -12
+-12 3.4 -12
+stud_female
+-12 -1.6 -12
+-12 -3.4 -12
+stud_male
+-12 1.6 -4
+-12 3.4 -4
+stud_female
+-12 -1.6 -4
+-12 -3.4 -4
+stud_male
+-12 1.6 4
+-12 3.4 4
+stud_female
+-12 -1.6 4
+-12 -3.4 4
+stud_male
+-12 1.6 12
+-12 3.4 12
+stud_female
+-12 -1.6 12
+-12 -3.4 12
+stud_male
+-12 1.6 20
+-12 3.4 20
+stud_female
+-12 -1.6 20
+-12 -3.4 20
+stud_male
+-12 1.6 28
+-12 3.4 28
+stud_female
+-12 -1.6 28
+-12 -3.4 28
+stud_male
+-12 1.6 36
+-12 3.4 36
+stud_female
+-12 -1.6 36
+-12 -3.4 36
+stud_male
+-12 1.6 44
+-12 3.4 44
+stud_female
+-12 -1.6 44
+-12 -3.4 44
+stud_male
+-12 1.6 52
+-12 3.4 52
+stud_female
+-12 -1.6 52
+-12 -3.4 52
+stud_male
+-12 1.6 60
+-12 3.4 60
+stud_female
+-12 -1.6 60
+-12 -3.4 60
+stud_male
+-4 1.6 -60
+-4 3.4 -60
+stud_female
+-4 -1.6 -60
+-4 -3.4 -60
+stud_male
+-4 1.6 -52
+-4 3.4 -52
+stud_female
+-4 -1.6 -52
+-4 -3.4 -52
+stud_male
+-4 1.6 -44
+-4 3.4 -44
+stud_female
+-4 -1.6 -44
+-4 -3.4 -44
+stud_male
+-4 1.6 -36
+-4 3.4 -36
+stud_female
+-4 -1.6 -36
+-4 -3.4 -36
+stud_male
+-4 1.6 -28
+-4 3.4 -28
+stud_female
+-4 -1.6 -28
+-4 -3.4 -28
+stud_male
+-4 1.6 -20
+-4 3.4 -20
+stud_female
+-4 -1.6 -20
+-4 -3.4 -20
+stud_male
+-4 1.6 -12
+-4 3.4 -12
+stud_female
+-4 -1.6 -12
+-4 -3.4 -12
+stud_male
+-4 1.6 -4
+-4 3.4 -4
+stud_female
+-4 -1.6 -4
+-4 -3.4 -4
+stud_male
+-4 1.6 4
+-4 3.4 4
+stud_female
+-4 -1.6 4
+-4 -3.4 4
+stud_male
+-4 1.6 12
+-4 3.4 12
+stud_female
+-4 -1.6 12
+-4 -3.4 12
+stud_male
+-4 1.6 20
+-4 3.4 20
+stud_female
+-4 -1.6 20
+-4 -3.4 20
+stud_male
+-4 1.6 28
+-4 3.4 28
+stud_female
+-4 -1.6 28
+-4 -3.4 28
+stud_male
+-4 1.6 36
+-4 3.4 36
+stud_female
+-4 -1.6 36
+-4 -3.4 36
+stud_male
+-4 1.6 44
+-4 3.4 44
+stud_female
+-4 -1.6 44
+-4 -3.4 44
+stud_male
+-4 1.6 52
+-4 3.4 52
+stud_female
+-4 -1.6 52
+-4 -3.4 52
+stud_male
+-4 1.6 60
+-4 3.4 60
+stud_female
+-4 -1.6 60
+-4 -3.4 60
+stud_male
+4 1.6 -60
+4 3.4 -60
+stud_female
+4 -1.6 -60
+4 -3.4 -60
+stud_male
+4 1.6 -52
+4 3.4 -52
+stud_female
+4 -1.6 -52
+4 -3.4 -52
+stud_male
+4 1.6 -44
+4 3.4 -44
+stud_female
+4 -1.6 -44
+4 -3.4 -44
+stud_male
+4 1.6 -36
+4 3.4 -36
+stud_female
+4 -1.6 -36
+4 -3.4 -36
+stud_male
+4 1.6 -28
+4 3.4 -28
+stud_female
+4 -1.6 -28
+4 -3.4 -28
+stud_male
+4 1.6 -20
+4 3.4 -20
+stud_female
+4 -1.6 -20
+4 -3.4 -20
+stud_male
+4 1.6 -12
+4 3.4 -12
+stud_female
+4 -1.6 -12
+4 -3.4 -12
+stud_male
+4 1.6 -4
+4 3.4 -4
+stud_female
+4 -1.6 -4
+4 -3.4 -4
+stud_male
+4 1.6 4
+4 3.4 4
+stud_female
+4 -1.6 4
+4 -3.4 4
+stud_male
+4 1.6 12
+4 3.4 12
+stud_female
+4 -1.6 12
+4 -3.4 12
+stud_male
+4 1.6 20
+4 3.4 20
+stud_female
+4 -1.6 20
+4 -3.4 20
+stud_male
+4 1.6 28
+4 3.4 28
+stud_female
+4 -1.6 28
+4 -3.4 28
+stud_male
+4 1.6 36
+4 3.4 36
+stud_female
+4 -1.6 36
+4 -3.4 36
+stud_male
+4 1.6 44
+4 3.4 44
+stud_female
+4 -1.6 44
+4 -3.4 44
+stud_male
+4 1.6 52
+4 3.4 52
+stud_female
+4 -1.6 52
+4 -3.4 52
+stud_male
+4 1.6 60
+4 3.4 60
+stud_female
+4 -1.6 60
+4 -3.4 60
+stud_male
+12 1.6 -60
+12 3.4 -60
+stud_female
+12 -1.6 -60
+12 -3.4 -60
+stud_male
+12 1.6 -52
+12 3.4 -52
+stud_female
+12 -1.6 -52
+12 -3.4 -52
+stud_male
+12 1.6 -44
+12 3.4 -44
+stud_female
+12 -1.6 -44
+12 -3.4 -44
+stud_male
+12 1.6 -36
+12 3.4 -36
+stud_female
+12 -1.6 -36
+12 -3.4 -36
+stud_male
+12 1.6 -28
+12 3.4 -28
+stud_female
+12 -1.6 -28
+12 -3.4 -28
+stud_male
+12 1.6 -20
+12 3.4 -20
+stud_female
+12 -1.6 -20
+12 -3.4 -20
+stud_male
+12 1.6 -12
+12 3.4 -12
+stud_female
+12 -1.6 -12
+12 -3.4 -12
+stud_male
+12 1.6 -4
+12 3.4 -4
+stud_female
+12 -1.6 -4
+12 -3.4 -4
+stud_male
+12 1.6 4
+12 3.4 4
+stud_female
+12 -1.6 4
+12 -3.4 4
+stud_male
+12 1.6 12
+12 3.4 12
+stud_female
+12 -1.6 12
+12 -3.4 12
+stud_male
+12 1.6 20
+12 3.4 20
+stud_female
+12 -1.6 20
+12 -3.4 20
+stud_male
+12 1.6 28
+12 3.4 28
+stud_female
+12 -1.6 28
+12 -3.4 28
+stud_male
+12 1.6 36
+12 3.4 36
+stud_female
+12 -1.6 36
+12 -3.4 36
+stud_male
+12 1.6 44
+12 3.4 44
+stud_female
+12 -1.6 44
+12 -3.4 44
+stud_male
+12 1.6 52
+12 3.4 52
+stud_female
+12 -1.6 52
+12 -3.4 52
+stud_male
+12 1.6 60
+12 3.4 60
+stud_female
+12 -1.6 60
+12 -3.4 60
+stud_male
+20 1.6 -60
+20 3.4 -60
+stud_female
+20 -1.6 -60
+20 -3.4 -60
+stud_male
+20 1.6 -52
+20 3.4 -52
+stud_female
+20 -1.6 -52
+20 -3.4 -52
+stud_male
+20 1.6 -44
+20 3.4 -44
+stud_female
+20 -1.6 -44
+20 -3.4 -44
+stud_male
+20 1.6 -36
+20 3.4 -36
+stud_female
+20 -1.6 -36
+20 -3.4 -36
+stud_male
+20 1.6 -28
+20 3.4 -28
+stud_female
+20 -1.6 -28
+20 -3.4 -28
+stud_male
+20 1.6 -20
+20 3.4 -20
+stud_female
+20 -1.6 -20
+20 -3.4 -20
+stud_male
+20 1.6 -12
+20 3.4 -12
+stud_female
+20 -1.6 -12
+20 -3.4 -12
+stud_male
+20 1.6 -4
+20 3.4 -4
+stud_female
+20 -1.6 -4
+20 -3.4 -4
+stud_male
+20 1.6 4
+20 3.4 4
+stud_female
+20 -1.6 4
+20 -3.4 4
+stud_male
+20 1.6 12
+20 3.4 12
+stud_female
+20 -1.6 12
+20 -3.4 12
+stud_male
+20 1.6 20
+20 3.4 20
+stud_female
+20 -1.6 20
+20 -3.4 20
+stud_male
+20 1.6 28
+20 3.4 28
+stud_female
+20 -1.6 28
+20 -3.4 28
+stud_male
+20 1.6 36
+20 3.4 36
+stud_female
+20 -1.6 36
+20 -3.4 36
+stud_male
+20 1.6 44
+20 3.4 44
+stud_female
+20 -1.6 44
+20 -3.4 44
+stud_male
+20 1.6 52
+20 3.4 52
+stud_female
+20 -1.6 52
+20 -3.4 52
+stud_male
+20 1.6 60
+20 3.4 60
+stud_female
+20 -1.6 60
+20 -3.4 60
+stud_male
+28 1.6 -60
+28 3.4 -60
+stud_female
+28 -1.6 -60
+28 -3.4 -60
+stud_male
+28 1.6 -52
+28 3.4 -52
+stud_female
+28 -1.6 -52
+28 -3.4 -52
+stud_male
+28 1.6 -44
+28 3.4 -44
+stud_female
+28 -1.6 -44
+28 -3.4 -44
+stud_male
+28 1.6 -36
+28 3.4 -36
+stud_female
+28 -1.6 -36
+28 -3.4 -36
+stud_male
+28 1.6 -28
+28 3.4 -28
+stud_female
+28 -1.6 -28
+28 -3.4 -28
+stud_male
+28 1.6 -20
+28 3.4 -20
+stud_female
+28 -1.6 -20
+28 -3.4 -20
+stud_male
+28 1.6 -12
+28 3.4 -12
+stud_female
+28 -1.6 -12
+28 -3.4 -12
+stud_male
+28 1.6 -4
+28 3.4 -4
+stud_female
+28 -1.6 -4
+28 -3.4 -4
+stud_male
+28 1.6 4
+28 3.4 4
+stud_female
+28 -1.6 4
+28 -3.4 4
+stud_male
+28 1.6 12
+28 3.4 12
+stud_female
+28 -1.6 12
+28 -3.4 12
+stud_male
+28 1.6 20
+28 3.4 20
+stud_female
+28 -1.6 20
+28 -3.4 20
+stud_male
+28 1.6 28
+28 3.4 28
+stud_female
+28 -1.6 28
+28 -3.4 28
+stud_male
+28 1.6 36
+28 3.4 36
+stud_female
+28 -1.6 36
+28 -3.4 36
+stud_male
+28 1.6 44
+28 3.4 44
+stud_female
+28 -1.6 44
+28 -3.4 44
+stud_male
+28 1.6 52
+28 3.4 52
+stud_female
+28 -1.6 52
+28 -3.4 52
+stud_male
+28 1.6 60
+28 3.4 60
+stud_female
+28 -1.6 60
+28 -3.4 60
+stud_male
+36 1.6 -60
+36 3.4 -60
+stud_female
+36 -1.6 -60
+36 -3.4 -60
+stud_male
+36 1.6 -52
+36 3.4 -52
+stud_female
+36 -1.6 -52
+36 -3.4 -52
+stud_male
+36 1.6 -44
+36 3.4 -44
+stud_female
+36 -1.6 -44
+36 -3.4 -44
+stud_male
+36 1.6 -36
+36 3.4 -36
+stud_female
+36 -1.6 -36
+36 -3.4 -36
+stud_male
+36 1.6 -28
+36 3.4 -28
+stud_female
+36 -1.6 -28
+36 -3.4 -28
+stud_male
+36 1.6 -20
+36 3.4 -20
+stud_female
+36 -1.6 -20
+36 -3.4 -20
+stud_male
+36 1.6 -12
+36 3.4 -12
+stud_female
+36 -1.6 -12
+36 -3.4 -12
+stud_male
+36 1.6 -4
+36 3.4 -4
+stud_female
+36 -1.6 -4
+36 -3.4 -4
+stud_male
+36 1.6 4
+36 3.4 4
+stud_female
+36 -1.6 4
+36 -3.4 4
+stud_male
+36 1.6 12
+36 3.4 12
+stud_female
+36 -1.6 12
+36 -3.4 12
+stud_male
+36 1.6 20
+36 3.4 20
+stud_female
+36 -1.6 20
+36 -3.4 20
+stud_male
+36 1.6 28
+36 3.4 28
+stud_female
+36 -1.6 28
+36 -3.4 28
+stud_male
+36 1.6 36
+36 3.4 36
+stud_female
+36 -1.6 36
+36 -3.4 36
+stud_male
+36 1.6 44
+36 3.4 44
+stud_female
+36 -1.6 44
+36 -3.4 44
+stud_male
+36 1.6 52
+36 3.4 52
+stud_female
+36 -1.6 52
+36 -3.4 52
+stud_male
+36 1.6 60
+36 3.4 60
+stud_female
+36 -1.6 60
+36 -3.4 60
+stud_male
+44 1.6 -60
+44 3.4 -60
+stud_female
+44 -1.6 -60
+44 -3.4 -60
+stud_male
+44 1.6 -52
+44 3.4 -52
+stud_female
+44 -1.6 -52
+44 -3.4 -52
+stud_male
+44 1.6 -44
+44 3.4 -44
+stud_female
+44 -1.6 -44
+44 -3.4 -44
+stud_male
+44 1.6 -36
+44 3.4 -36
+stud_female
+44 -1.6 -36
+44 -3.4 -36
+stud_male
+44 1.6 -28
+44 3.4 -28
+stud_female
+44 -1.6 -28
+44 -3.4 -28
+stud_male
+44 1.6 -20
+44 3.4 -20
+stud_female
+44 -1.6 -20
+44 -3.4 -20
+stud_male
+44 1.6 -12
+44 3.4 -12
+stud_female
+44 -1.6 -12
+44 -3.4 -12
+stud_male
+44 1.6 -4
+44 3.4 -4
+stud_female
+44 -1.6 -4
+44 -3.4 -4
+stud_male
+44 1.6 4
+44 3.4 4
+stud_female
+44 -1.6 4
+44 -3.4 4
+stud_male
+44 1.6 12
+44 3.4 12
+stud_female
+44 -1.6 12
+44 -3.4 12
+stud_male
+44 1.6 20
+44 3.4 20
+stud_female
+44 -1.6 20
+44 -3.4 20
+stud_male
+44 1.6 28
+44 3.4 28
+stud_female
+44 -1.6 28
+44 -3.4 28
+stud_male
+44 1.6 36
+44 3.4 36
+stud_female
+44 -1.6 36
+44 -3.4 36
+stud_male
+44 1.6 44
+44 3.4 44
+stud_female
+44 -1.6 44
+44 -3.4 44
+stud_male
+44 1.6 52
+44 3.4 52
+stud_female
+44 -1.6 52
+44 -3.4 52
+stud_male
+44 1.6 60
+44 3.4 60
+stud_female
+44 -1.6 60
+44 -3.4 60
+stud_male
+52 1.6 -60
+52 3.4 -60
+stud_female
+52 -1.6 -60
+52 -3.4 -60
+stud_male
+52 1.6 -52
+52 3.4 -52
+stud_female
+52 -1.6 -52
+52 -3.4 -52
+stud_male
+52 1.6 -44
+52 3.4 -44
+stud_female
+52 -1.6 -44
+52 -3.4 -44
+stud_male
+52 1.6 -36
+52 3.4 -36
+stud_female
+52 -1.6 -36
+52 -3.4 -36
+stud_male
+52 1.6 -28
+52 3.4 -28
+stud_female
+52 -1.6 -28
+52 -3.4 -28
+stud_male
+52 1.6 -20
+52 3.4 -20
+stud_female
+52 -1.6 -20
+52 -3.4 -20
+stud_male
+52 1.6 -12
+52 3.4 -12
+stud_female
+52 -1.6 -12
+52 -3.4 -12
+stud_male
+52 1.6 -4
+52 3.4 -4
+stud_female
+52 -1.6 -4
+52 -3.4 -4
+stud_male
+52 1.6 4
+52 3.4 4
+stud_female
+52 -1.6 4
+52 -3.4 4
+stud_male
+52 1.6 12
+52 3.4 12
+stud_female
+52 -1.6 12
+52 -3.4 12
+stud_male
+52 1.6 20
+52 3.4 20
+stud_female
+52 -1.6 20
+52 -3.4 20
+stud_male
+52 1.6 28
+52 3.4 28
+stud_female
+52 -1.6 28
+52 -3.4 28
+stud_male
+52 1.6 36
+52 3.4 36
+stud_female
+52 -1.6 36
+52 -3.4 36
+stud_male
+52 1.6 44
+52 3.4 44
+stud_female
+52 -1.6 44
+52 -3.4 44
+stud_male
+52 1.6 52
+52 3.4 52
+stud_female
+52 -1.6 52
+52 -3.4 52
+stud_male
+52 1.6 60
+52 3.4 60
+stud_female
+52 -1.6 60
+52 -3.4 60
+stud_male
+60 1.6 -60
+60 3.4 -60
+stud_female
+60 -1.6 -60
+60 -3.4 -60
+stud_male
+60 1.6 -52
+60 3.4 -52
+stud_female
+60 -1.6 -52
+60 -3.4 -52
+stud_male
+60 1.6 -44
+60 3.4 -44
+stud_female
+60 -1.6 -44
+60 -3.4 -44
+stud_male
+60 1.6 -36
+60 3.4 -36
+stud_female
+60 -1.6 -36
+60 -3.4 -36
+stud_male
+60 1.6 -28
+60 3.4 -28
+stud_female
+60 -1.6 -28
+60 -3.4 -28
+stud_male
+60 1.6 -20
+60 3.4 -20
+stud_female
+60 -1.6 -20
+60 -3.4 -20
+stud_male
+60 1.6 -12
+60 3.4 -12
+stud_female
+60 -1.6 -12
+60 -3.4 -12
+stud_male
+60 1.6 -4
+60 3.4 -4
+stud_female
+60 -1.6 -4
+60 -3.4 -4
+stud_male
+60 1.6 4
+60 3.4 4
+stud_female
+60 -1.6 4
+60 -3.4 4
+stud_male
+60 1.6 12
+60 3.4 12
+stud_female
+60 -1.6 12
+60 -3.4 12
+stud_male
+60 1.6 20
+60 3.4 20
+stud_female
+60 -1.6 20
+60 -3.4 20
+stud_male
+60 1.6 28
+60 3.4 28
+stud_female
+60 -1.6 28
+60 -3.4 28
+stud_male
+60 1.6 36
+60 3.4 36
+stud_female
+60 -1.6 36
+60 -3.4 36
+stud_male
+60 1.6 44
+60 3.4 44
+stud_female
+60 -1.6 44
+60 -3.4 44
+stud_male
+60 1.6 52
+60 3.4 52
+stud_female
+60 -1.6 52
+60 -3.4 52
+stud_male
+60 1.6 60
+60 3.4 60
+stud_female
+60 -1.6 60
+60 -3.4 60

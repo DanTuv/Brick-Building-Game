@@ -1,0 +1,4 @@
+compatible_type
+magnet_male
+facing_vectors
+2

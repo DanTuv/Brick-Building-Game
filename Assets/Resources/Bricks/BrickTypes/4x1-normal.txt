@@ -1,0 +1,26 @@
+name
+4x1-normal
+stud_male
+-12 4.8 0
+-12 6.6 0
+stud_female
+-12 -4.8 0
+-12 -6.6 0
+stud_male
+-4 4.8 0
+-4 6.6 0
+stud_female
+-4 -4.8 0
+-4 -6.6 0
+stud_male
+4 4.8 0
+4 6.6 0
+stud_female
+4 -4.8 0
+4 -6.6 0
+stud_male
+12 4.8 0
+12 6.6 0
+stud_female
+12 -4.8 0
+12 -6.6 0

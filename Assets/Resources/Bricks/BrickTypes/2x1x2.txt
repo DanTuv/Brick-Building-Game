@@ -1,0 +1,15 @@
+name
+2x1x2
+stud_male
+-4 9.6 0
+-4 11.4 0
+stud_male
+4 9.6 0
+4 11.4 0
+stud_female
+-4 -9.6 0
+-4 -11.4 0
+stud_female
+4 -9.6 0
+4 -11.4 0
+dismiss

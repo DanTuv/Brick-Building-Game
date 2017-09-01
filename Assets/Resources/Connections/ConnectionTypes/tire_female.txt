@@ -1,0 +1,2 @@
+compatible_type
+tire_male

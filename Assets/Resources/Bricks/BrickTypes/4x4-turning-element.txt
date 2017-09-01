@@ -1,0 +1,41 @@
+name
+4x4-turning-element
+stud_male
+4 4.8 -12
+4 6.6 -12
+stud_male
+-4 4.8 -12
+-4 6.6 -12
+stud_male
+12 4.8 -4
+12 6.6 -4
+stud_male
+4 4.8 -4
+4 6.6 -4
+stud_male
+-4 4.8 -4
+-4 6.6 -4
+stud_male
+-12 4.8 -4
+-12 6.6 -4
+stud_male
+12 4.8 4
+12 6.6 4
+stud_male
+4 4.8 4
+4 6.6 4
+stud_male
+-4 4.8 4
+-4 6.6 4
+stud_male
+-12 4.8 4
+-12 6.6 4
+stud_male
+4 4.8 12
+4 6.6 12
+stud_male
+-4 4.8 12
+-4 6.6 12
+turnable_large_female
+0 -1.6 0
+0 -3.4 0

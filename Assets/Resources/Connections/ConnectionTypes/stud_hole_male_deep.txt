@@ -1,0 +1,10 @@
+compatible_type
+stud_female
+compatible_type
+stud_rotateable_female
+can_be_rotated
+true
+rotation_max
+360
+rotation_min
+-360

@@ -1,0 +1,26 @@
+name
+2x2-normal
+stud_male
+4 4.8 4
+4 6.6 4
+stud_male
+4 4.8 -4
+4 6.6 -4
+stud_male
+-4 4.8 4
+-4 6.6 4
+stud_male
+-4 4.8 -4
+-4 6.6 -4
+stud_female
+4 -4.8 -4
+4 -6.6 -4
+stud_female
+4 -4.8 4
+4 -6.6 4
+stud_female
+-4 -4.8 -4
+-4 -6.6 -4
+stud_female
+-4 -4.8 4
+-4 -6.6 4

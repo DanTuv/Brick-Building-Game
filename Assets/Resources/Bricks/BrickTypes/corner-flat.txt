@@ -1,0 +1,20 @@
+name
+corner-flat
+stud_male
+4 1.58 4
+4 3.38 4
+stud_male
+-4 1.58 4
+-4 3.38 4
+stud_male
+-4 1.58 -4
+-4 3.38 -4
+stud_female
+4 -1.58 4
+4 -3.38 4
+stud_female
+-4 -1.58 4
+-4 -3.38 4
+stud_female
+-4 -1.58 -4
+-4 -3.38 -4
