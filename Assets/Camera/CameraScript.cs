@@ -32,7 +32,7 @@ public class CameraScript : MonoBehaviour {
 	// Use this for initialization
 	void Start () 
 	{
-		setMainCursor ();
+		SetMainCursor ();
 		Vector3 angles = transform.eulerAngles;
 		x = angles.y;
 		y = angles.x;
@@ -72,14 +72,14 @@ public class CameraScript : MonoBehaviour {
         }
     }
 
-	void setRotateCursor() {
+	void SetRotateCursor() {
 		CursorMode cursorMode = CursorMode.Auto;
 		Vector2 hotSpot = new Vector2(16, 16);
 		Texture2D rotateTexture = (Texture2D)Resources.Load ("rotate");
 		Cursor.SetCursor (rotateTexture, hotSpot, cursorMode);
 	}
 
-	void setMainCursor() {
+	void SetMainCursor() {
 		CursorMode cursorMode = CursorMode.Auto;
 		Vector2 hotSpot = new Vector2(0, 0);
 		Texture2D rotateTexture = (Texture2D)Resources.Load ("construction");
@@ -95,50 +95,50 @@ public class CameraScript : MonoBehaviour {
 		return Mathf.Clamp(angle, min, max);
 	}
 
-    void resetRotation()
+    void ResetRotation()
     {
         x = normalRotationX;
         y = normalRotationY;
         Quaternion rotation = Quaternion.Euler(y, x, 0);
-        gameCamera.transform.rotation = rotation;
+        Camera.main.transform.rotation = rotation;
     }
 
     public void ZoomIn()
     {
         distance = distance - 1.0f;
-        updateZoom(distance);
+        UpdateZoom(distance);
     }
 
     public void ZoomOut()
     {
         distance = distance + 1.0f;
-        updateZoom(distance);
+        UpdateZoom(distance);
     }
 
-    void updateZoom(float distance)
+    void UpdateZoom(float distance)
     {
         RaycastHit hit;
 
-        if (Physics.Linecast(gameCamera.transform.position, gameCamera.transform.position, out hit))
+        if (Physics.Linecast(Camera.main.transform.position, Camera.main.transform.position, out hit))
         {
             distance -= hit.distance;
         }
         Vector3 negDistance = new Vector3(0.0f, 0.0f, -distance);
         Quaternion rotation = Quaternion.Euler(y, x, 0);
         Vector3 position = rotation * negDistance + cameraObject.transform.position;
-        gameCamera.transform.position = position;
+        Camera.main.transform.position = position;
     }
 
     void resetZoom()
     {
         distance = distanceNormal;
-        updateZoom(distance);
+        UpdateZoom(distance);
     }
 
     void zoomIn()
     {
         distance = distanceZoomed;
-        updateZoom(distance);
+        UpdateZoom(distance);
     }
 
 	public void focusOnSelected() {
@@ -156,7 +156,7 @@ public class CameraScript : MonoBehaviour {
         if (cameraObject == selectedObject || (cameraObject == basePlate && selectedObject == null)) {
             if (Input.GetKey(KeyCode.LeftShift))
             {
-                resetRotation();
+                ResetRotation();
             }
             else {
                 if (distance == distanceNormal)
@@ -172,7 +172,7 @@ public class CameraScript : MonoBehaviour {
         } 
 		//gameCamera.transform.SetParent (cameraObject.transform);
         if (cameraObject != null)
-		gameCamera.transform.LookAt(cameraObject.transform);
+            Camera.main.transform.LookAt(cameraObject.transform);
 	}
 
 	void LateUpdate () 
@@ -187,7 +187,7 @@ public class CameraScript : MonoBehaviour {
 		if ((Input.GetKey (KeyCode.LeftAlt) && Input.GetKey(KeyCode.Mouse0)) || Input.GetKey (rotateKey) || Input.touchCount > 1) {
 			isRotating = true;
 			if (!isRotateCursor) {
-				setRotateCursor ();
+				SetRotateCursor ();
 				isRotateCursor = true;
 			}
             if (Input.touchCount < 2)
@@ -207,17 +207,16 @@ public class CameraScript : MonoBehaviour {
 		// Zoom
 		distance = Mathf.Clamp(distance - Input.GetAxis("Mouse ScrollWheel")*20, distanceMin, distanceMax);
 
-        updateZoom(distance);
+        UpdateZoom(distance);
 
-        gameCamera.transform.rotation = rotation;
+        Camera.main.transform.rotation = rotation;
 
 		if (isRotateCursor && !isRotating) {
-			setMainCursor();
+			SetMainCursor();
 			isRotateCursor = false;
 		}
 	}
 
-	public Camera gameCamera;
 	public GameObject basePlate;
 	public GameObject cameraObject = null;
 	public GameObject selectedObject = null;
@@ -228,7 +227,7 @@ public class CameraScript : MonoBehaviour {
 			RaycastHit hitInfo = new RaycastHit();
             int mask = 1 << Physics.IgnoreRaycastLayer;
             mask = ~mask;
-            bool hit = Physics.Raycast(gameCamera.ScreenPointToRay(Input.mousePosition), out hitInfo, float.MaxValue, mask);
+            bool hit = Physics.Raycast(Camera.main.ScreenPointToRay(Input.mousePosition), out hitInfo, float.MaxValue, mask);
 			if (hit) 
 			{
 				selectedObject = hitInfo.transform.gameObject;

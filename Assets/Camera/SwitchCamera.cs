@@ -13,6 +13,8 @@ public class SwitchCamera : MonoBehaviour {
             {
                 topCam.gameObject.SetActive(false);
                 fpsCam.gameObject.SetActive(true);
+                Cursor.lockState = CursorLockMode.Locked;
+                Cursor.visible = true;
             } else
             {
                 topCam.gameObject.SetActive(true);

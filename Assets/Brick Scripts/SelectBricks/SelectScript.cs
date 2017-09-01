@@ -34,7 +34,6 @@ public class SelectScript : MonoBehaviour {
     VisibleConnectors visibleConnectorsScript;
     RotateInput rotateInputScript;
     RotateConnection rotateConnectionScript;
-    public Camera gameCamera;
     List<SelectedBrick> selectedBricks;
     Color selectionColor;
     Button btnPaintBucket;
@@ -185,7 +184,7 @@ public class SelectScript : MonoBehaviour {
         RaycastHit hitInfo = new RaycastHit();
         int mask = 1 << Physics.IgnoreRaycastLayer;
         mask = ~mask;
-        bool hit = Physics.Raycast(gameCamera.ScreenPointToRay(Input.mousePosition), out hitInfo, float.MaxValue, mask);
+        bool hit = Physics.Raycast(Camera.main.ScreenPointToRay(Input.mousePosition), out hitInfo, float.MaxValue, mask);
         if (hit)
         {
             BrickTypeIdentifier brickIdentifier = hitInfo.transform.gameObject.GetComponentInParent<BrickTypeIdentifier>();

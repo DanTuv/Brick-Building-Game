@@ -11,7 +11,6 @@ public class Bricks : MonoBehaviour {
     public float connectionRange;
     List<Brick> bricks;
     List<Brick> hiddenBricks;
-    public Camera gameCamera;
     ConnectionClass connectionClassScript;
 
     public bool ExistsHiddenBricks()
@@ -148,11 +147,11 @@ public class Bricks : MonoBehaviour {
         ref RaycastHit hitInfo, int mask = ~(1 << Physics.IgnoreRaycastLayer))
     {
         // Get the start position and the direction of the ray to be cast for this connection.
-        brick.brickGO.transform.position = gameCamera.transform.position;
+        brick.brickGO.transform.position = Camera.main.transform.position;
         Vector3 cameraPoint = brick.brickGO.transform.TransformPoint(connection / 100.0f);
         Vector3 mousePos = Input.mousePosition;
         mousePos.z = 0.1f;
-        Vector3 screenToWorld = gameCamera.ScreenToWorldPoint(mousePos);
+        Vector3 screenToWorld = Camera.main.ScreenToWorldPoint(mousePos);
         brick.brickGO.transform.position = screenToWorld;
         Vector3 mousePoint = brick.brickGO.transform.TransformPoint(connection / 100.0f);
         Vector3 rayStart = cameraPoint;
@@ -328,7 +327,7 @@ public class Bricks : MonoBehaviour {
         // 1. Distance to camera from the best connection.
         // 2. v2x3 of the best connection.
         // 3. The position of the best connection.
-        public ConnectionHit GetBestConnection(ref Brick placeBrick, ref Camera gameCamera, float connectionRange,
+        public ConnectionHit GetBestConnection(ref Brick placeBrick, Camera gameCamera, float connectionRange,
             ConnectionClass connClassScript)
         {
 
@@ -726,12 +725,12 @@ public class Bricks : MonoBehaviour {
         
         for (int i = 0; i < hitObjectPointsList.Count; i++) {
             ConnectionHit thisConnectionHit = 
-                hitObjectPointsList[i].GetBestConnection(ref brickToPlace, ref gameCamera, connectionRange,
+                hitObjectPointsList[i].GetBestConnection(ref brickToPlace, Camera.main, connectionRange,
                 connectionClassScript);
             if (thisConnectionHit.distanceToCamera != float.PositiveInfinity)
             {
                 Vector3 resultingPosition = BrickPositionFromConnectionOffset(brickToPlace, thisConnectionHit);
-                float resultingDistanceToCamera = Vector3.Distance(resultingPosition, gameCamera.transform.position);
+                float resultingDistanceToCamera = Vector3.Distance(resultingPosition, Camera.main.transform.position);
 
                 if (resultingDistanceToCamera < nearestConnectionHit.distanceToCamera)
                 {

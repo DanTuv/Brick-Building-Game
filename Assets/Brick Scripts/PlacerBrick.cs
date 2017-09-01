@@ -436,8 +436,8 @@ public class PlacerBrick : MonoBehaviour {
                 CheckAndPlaceBrick();
             }
         }
-        if (placerBrick != null && (MousePositionChanged() || 
-            previousRotation != lastRotation))
+        if (placerBrick != null /* && (  MousePositionChanged()  || 
+            previousRotation != lastRotation) */)
         {
             
             UpdatePlacerPosition();
